@@ -12,7 +12,7 @@ permalink: /meet-the-dcsa/
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-President.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-President.jpg" alt="[President's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
-        <strong>President</strong><br/>
+        <strong>President (Vacant)</strong><br/>
         dcsa_president@darwin.cam.ac.uk<br/>
         <br/>
         <p align="justify"> 
